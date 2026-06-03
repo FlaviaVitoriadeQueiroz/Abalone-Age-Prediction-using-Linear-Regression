@@ -6,7 +6,7 @@
 
 # 🇧🇷 Português
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto tem como objetivo estimar a idade de abalones a partir de características biométricas utilizando técnicas de Machine Learning.
 
